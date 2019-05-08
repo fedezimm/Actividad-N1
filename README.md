@@ -14,6 +14,15 @@ Una vez realizada la actividad subir a este repositoria a una rama que identifiq
 
 Para la clase del dia 3 de mayo llegar a crear la migración de la base de datos y crear un par de datos almacenados en la base de datos. 
 
+# Actividad N2
+A partir de los siguientes tutoriales crear el acceso a datos y la migración de base de datos con NHibernate y Fluent (mapeo)
 
+https://www.daimto.com/nhibernate-quickstart/
 
+https://gunnarpeipman.com/data/nhibernate-on-aspnet-core/
+
+https://www.codeproject.com/Tips/1243873/Work-with-Fluent-NHibernate-in-Core
+
+Realizar ABM usando los métodos SaveOrUpdateAsync, Transaction y QueryOver.
+No es necesario que sea una Web con que lo realicen en una aplicación de consola es suficiente.
 
